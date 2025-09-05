@@ -1,2 +1,2 @@
-# Healthcare-Dashboard
+# Healthcare-Dashboard-Project
 Interactive dashboard for healthcare KPIs using Excel, MySQL, Power BI, and Tableau.
