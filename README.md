@@ -1,2 +1,3 @@
 # Healthcare-Dashboard-Project
-Interactive dashboard for healthcare KPIs using Excel, MySQL, Power BI, and Tableau.
+End-to-end healthcare analytics dashboard integrating Excel, MySQL, Power BI, and Tableau to 
+provide actionable insights into patient care, hospital performance, and operational efficiency.
